@@ -10,3 +10,9 @@ Practicar el flujo básico de git y GitHub: inicializar un repositorio, hacer va
 
 - `datos.md`: información básica de la práctica.
 - `script.py`: script de Python de ejemplo.
+
+## Cómo usar
+
+```bash
+python3 script.py
+```
